@@ -1,0 +1,28 @@
+/* add your CSS here */
+.animal-card {
+	width: 300px;
+	padding: 0 15px 15px 15px;
+	border: solid 1px lightgrey;
+	box-shadow: 5px 5px 5px gainsboro;
+	border-radius: 5px;
+}
+.animal-image {
+	border: solid 1px lightgrey;
+	width: 300px;
+}
+.animal-text-content {
+	border: solid 1px lightgrey;
+	width: 280px;
+	padding: 0 10px 0 10px;
+	margin-top: 10px;
+}
+.interesting-fact {
+	font-style: italic;
+}
+.fact-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+.list-item-label {
+	font-weight: bold;
+}
